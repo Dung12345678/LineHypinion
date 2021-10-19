@@ -1,0 +1,38 @@
+<Tables>
+
+	<Table>
+		<name>ConfigShipTo</name>
+		<column>
+			<name>iD</name>
+			<dataType>int</dataType>
+			<isPK>true</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias></alias>
+			<number>0</number>
+		</column>
+		<column>
+			<name>shipTo</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Ship To</alias>
+			<number>1</number>
+		</column>
+		<column>
+			<name>isHidden</name>
+			<dataType>bit</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Is Hidden</alias>
+			<number>2</number>
+		</column>
+	</Table>
+
+</Tables>
+
