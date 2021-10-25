@@ -192,12 +192,12 @@ namespace BMS
 
         public static void InitFTPQLSX()
         {
-			//ftpServerPath = "ftp://172.21.9.248";
-			//ftpUserID = "rtc";
-			//ftpPassword = "123456";
-			ftpServerPath = "ftp://192.168.1.133";
-			ftpUserID = "No_Name";
-			ftpPassword = "Dung123";
+			ftpServerPath = "ftp://172.21.9.248";
+			ftpUserID = "rtc";
+			ftpPassword = "123456";
+			//ftpServerPath = "ftp://192.168.1.133";
+			//ftpUserID = "No_Name";
+			//ftpPassword = "Dung123";
 		}
         /* public static void InitFTPQLSX()
          {

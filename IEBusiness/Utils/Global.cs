@@ -9,8 +9,8 @@ namespace IE
 {
 	public static class Global
 	{
-		//static string _ConnectionString = @"Server=LAPTOP-G3GTTN00\SQLEXPRESS;Database=SumitomoHyp;uid=sa;pwd=123@123a;";
-		static string _ConnectionString = "";
+		static string _ConnectionString = @"Server=LAPTOP-G3GTTN00\SQLEXPRESS;Database=SumitomoHyp;uid=sa;pwd=123@123a;";
+		//static string _ConnectionString = "";
 		public static string ConnectionString
 		{
 			get

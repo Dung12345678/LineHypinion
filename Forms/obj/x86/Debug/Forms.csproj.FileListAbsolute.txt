@@ -22977,7 +22977,6 @@ D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\Forms\obj\x86\Debug
 D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\Forms\obj\x86\Debug\BMS.frmTestta2.resources
 D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\Forms\obj\x86\Debug\BMS.frmImportProductionPlanExcel.resources
 D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\Forms\obj\x86\Debug\Forms.csproj.GenerateResource.cache
-D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\Forms\obj\x86\Debug\Forms.dll.licenses
 D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\Forms\obj\x86\Debug\Forms.csproj.CoreCompileInputs.cache
 D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\Forms\obj\x86\Debug\Forms.csproj.CopyComplete
 D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\Forms\obj\x86\Debug\Forms.dll

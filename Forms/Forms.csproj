@@ -1571,7 +1571,6 @@
     <EmbeddedResource Include="KhoSon\StockCD\frmStockCD.resx">
       <DependentUpon>frmStockCD.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Testler\frmReasonChange.resx">
       <DependentUpon>frmReasonChange.cs</DependentUpon>
     </EmbeddedResource>

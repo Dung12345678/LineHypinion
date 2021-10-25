@@ -392,3 +392,11 @@ D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20\IEBusiness\obj\x86\Debu
 D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20\IEBusiness\obj\x86\Debug\IEBusiness.dll
 D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20\IEBusiness\obj\x86\Debug\IEBusiness.pdb
 D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20\IEBusiness\obj\x86\Debug\IEBusiness.csproj.AssemblyReference.cache
+D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\IEBusiness\bin\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\IEBusiness\bin\x86\Debug\IEBusiness.pdb
+D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\IEBusiness\obj\x86\Debug\IEBusiness.csproj.AssemblyReference.cache
+D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\IEBusiness\obj\x86\Debug\IEBusiness.Properties.Resources.resources
+D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\IEBusiness\obj\x86\Debug\IEBusiness.csproj.GenerateResource.cache
+D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\IEBusiness\obj\x86\Debug\IEBusiness.csproj.CoreCompileInputs.cache
+D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\IEBusiness\obj\x86\Debug\IEBusiness.dll
+D:\project\Sumitomo\AnDonPinion\LineHypinionTachMa-Dev20-Img\IEBusiness\obj\x86\Debug\IEBusiness.pdb
